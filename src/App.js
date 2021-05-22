@@ -1,10 +1,12 @@
 import MainPage from './Pages/MainPage';
 import './App.css';
 import Footer from './Pages/Footer';
+import Header from './Pages/Header';
 
 function App() {
   return (
 <div>
+  <Header />
   <MainPage />
   <Footer />
 </div>
