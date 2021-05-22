@@ -1,10 +1,12 @@
 import MainPage from './Pages/MainPage';
 import './App.css';
+import Footer from './Pages/Footer';
 
 function App() {
   return (
 <div>
   <MainPage />
+  <Footer />
 </div>
     // <div className="App">
     //   {/* <header className="App-header">

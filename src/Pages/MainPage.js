@@ -1,5 +1,3 @@
-
-
 const MainPage = () => {
     return (
         <div class="content">
@@ -11,7 +9,7 @@ const MainPage = () => {
                 <cite title="Source Title">Recognized by world</cite>
             </figcaption>
         </figure>
-    
+
         <p>
             The roots of Georgian
             viticulture have been traced back by archeology to when people of the
@@ -64,9 +62,9 @@ const MainPage = () => {
             awareness, grapes from this region are becoming better known. Although there are nearly 400 to
             choose from, only 38 varieties are officially grown for commercial viticulture in Georgia
         </p>
-    
+
         <p>
-    
+
             Georgia's territorial and climate conditions are optimal for wine-making.
             Extremes of weather are unusual: summers tend to be short-sleeve sunny, and
             winters mild and frost-free. Natural springs abound, and the Caucasian Mountain
