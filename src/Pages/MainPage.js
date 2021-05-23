@@ -3,7 +3,7 @@ const MainPage = () => {
         <div class="content">
         <figure class="text-center">
             <blockquote class="blockquote">
-                <p>Georgian traditional high-quality homemade wine.</p>
+                <p>Georgian traditional high-quality homemade wine `Georgino`.</p>
             </blockquote>
             <figcaption class="blockquote-footer">
                 <cite title="Source Title">Recognized by world</cite>
@@ -28,7 +28,7 @@ const MainPage = () => {
         <p>
     
         </p>
-        <span id="imgC"></span>
+        <div id="imgC"></div>
         <p>
     
         </p>

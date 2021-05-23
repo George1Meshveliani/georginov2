@@ -20,7 +20,7 @@ const Footer = () => {
 			</span>	
 			<a href="https://www.facebook.com/WineryGeorgino"  target="_blank">
 			<img class="text-center rounded mx-auto d-block" id="#imgA" width="80" height="80"
-			src="https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/67082287_787017538358877_7568625995037540352_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHEeIGjwa0iq6uo-6HkVXQJrOkBWYdT876s6QFZh1PzvmTAdbhu7eji84fQrTEsVvga88qWZytDJPo4g98pd59T&_nc_ohc=ac9fuxkHsvoAX9Fc6pS&_nc_ht=scontent.ftbs5-2.fna&oh=5b763998a72437ebc6c5c41c9c547419&oe=60CFFF92" />
+			src="https://i.pinimg.com/originals/32/9a/f0/329af0877253f368fadb4825c1d71da2.jpg" />
 				</a>
 			<span class="row">
 				<span class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">

@@ -6,7 +6,6 @@
   height: 40vmin;
   pointer-events: none;
 } */
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -46,13 +45,19 @@ html, body {
 body {
   font-family: "Helvetica Neue",sans-serif;
   font-weight: lighter;
+  background-color:#702030;
 }
 
 header {
   width: 100%;
-  height: 16vh;
-  background: url(https://i.pinimg.com/originals/64/64/1b/64641b55b9f1f23e28ef4676d90a1374.jpg) no-repeat 60% 20%;
+  height: 12vh;
+  background-color:#821010;;
+  /* background: url(https://i.pinimg.com/originals/64/64/1b/64641b55b9f1f23e28ef4676d90a1374.jpg) no-repeat 60% 20%; */
   background-size: cover;
+}
+
+p {
+  color: white;
 }
   /* border-bottom-left-radius: 12px;
   border-bottom-right-radius: 22px; */
@@ -78,12 +83,12 @@ height: 6px;
   background-size: cover;
 }
 
-#imgC {
+/* #imgC {
   width: 100%;
   height: 100vh;
-  background: url(https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.0-9/132022677_1179602385767055_495486649109928955_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEl5cpC7EqN9exZoNhFhkPYRGQbt4PDQnBEZBu3g8NCcPzXTGvraIlkLvCwv81fbi7ghg9tDJRIKoULazWKiAUk&_nc_ohc=Of8C1mjmHfUAX-I5DNI&_nc_ht=scontent.ftbs5-2.fna&oh=34dbe679089c8b7540c7e1aa5d9711e6&oe=607171D4) no-repeat 50% 35%;
+  background: url(https://i.pinimg.com/originals/1b/19/00/1b1900817e66954b2d9c173762c7e9f2.jpg) no-repat 60% 40%;
   background-size: cover;
-}
+} */
 
 .content {
   width: 94%;
@@ -264,4 +269,61 @@ margin-right: 5px;
   padding-bottom: 0px;
   margin-bottom: 10px;
 }
+}
+
+.back {
+  background-color: black;
+  border-radius: 18px;
+  margin-top: 26px;
+  width: 1600%;
+  height: 800%;
+  margin-left: 16%;
+  background: url(https://i.pinimg.com/originals/a8/cc/20/a8cc20d742d17dbdeb1a5e91e07b687a.jpg)
+}
+
+.container1 {
+  background-color: black;
+  position: relative;
+  max-width: 600px;
+
+  margin: 0 auto;
+
+}
+
+.container1 img {
+  background-color: black;
+  vertical-align: middle;
+}
+
+
+
+.container1 {
+  background-color: black;
+  width: 100%;
+}
+
+.text-block {
+  background-color: black;
+  position: absolute;
+  top: 28px;
+  left: 6px;
+  background-color: rgba(0, 0, 0, 0.5);
+  ;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text-block1 {
+  position: absolute;
+  top: 100px;
+  left: 870px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding-left: 500px;
+  padding-right: 300px;
+}
+
+.contact {
+ color: black;
 }
